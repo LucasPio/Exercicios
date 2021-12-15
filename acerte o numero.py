@@ -25,5 +25,5 @@ else:
 
 
         else:
-            print("não foi dessa vez, o numero era", a)
+            print("não foi dessa vez, tente novamente, o numero era", a)
 
