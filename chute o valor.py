@@ -6,7 +6,7 @@ while count <= 0:
 
 
 
-    b = int(input("escolha um numero entre 0 e 10: "))
+    b = int(input("escolha um numero entre 0 e 100: "))
 
 
     if b > a:
